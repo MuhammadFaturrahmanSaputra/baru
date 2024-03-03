@@ -2,9 +2,9 @@ _rec,Jumlah total yang dilakukan oleh investor untuk pinjaman itu pada saat itu.
 acc_now_delinq,Jumlah akun di mana peminjam sekarang nakal.
 addr_state,Negara yang disediakan oleh peminjam dalam aplikasi pinjaman
 all_util,Saldo ke batas kredit untuk semua perdagangan
-annual_inc,v
+annual_inc,Pendapatan tahunan yang dilaporkan sendiri oleh peminjam saat pendaftaran.
 annual_inc_joint,Penghasilan tahunan yang dilaporkan sendiri gabungan yang disediakan oleh co-peminjam selama pendaftaran
-application_type,
+application_type,Menunjukkan apakah pinjaman tersebut merupakan pengajuan perorangan atau pengajuan bersama dengan dua peminjam
 collection_recovery_fee,Biaya pengumpulan biaya pengumpulan pos
 collections_12_mths_ex_med,Jumlah koleksi dalam 12 bulan tidak termasuk koleksi medis
 delinq_2yrs,Jumlah 30+ hari insiden kenakalan yang lewat dalam file kredit peminjam selama 2 tahun terakhir
@@ -73,7 +73,7 @@ total_pymnt_inv,Pembayaran diterima hingga saat ini untuk sebagian dari jumlah t
 total_rec_int,Bunga diterima hingga saat ini
 total_rec_late_fee,Biaya keterlambatan yang diterima hingga saat ini
 total_rec_prncp,Kepala sekolah diterima hingga saat ini
-total_rev_hi_lim  ,Total Batas Kredit/Kredit Tinggi Revolving
+total_rev_hi_lim Â ,Total Batas Kredit/Kredit Tinggi Revolving
 url,URL untuk halaman LC dengan data daftar.
 verified_status_joint,"Menunjukkan jika pendapatan bersama co-peminjam diverifikasi oleh LC, tidak diverifikasi, atau jika sumber pendapatan diverifikasi"
 zip_code,3 nomor pertama dari kode pos yang disediakan oleh peminjam dalam aplikasi pinjaman.
