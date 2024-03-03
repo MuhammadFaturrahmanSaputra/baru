@@ -1,0 +1,79 @@
+_rec,Jumlah total yang dilakukan oleh investor untuk pinjaman itu pada saat itu.
+acc_now_delinq,Jumlah akun di mana peminjam sekarang nakal.
+addr_state,Negara yang disediakan oleh peminjam dalam aplikasi pinjaman
+all_util,Saldo ke batas kredit untuk semua perdagangan
+annual_inc,v
+annual_inc_joint,Penghasilan tahunan yang dilaporkan sendiri gabungan yang disediakan oleh co-peminjam selama pendaftaran
+application_type,
+collection_recovery_fee,Biaya pengumpulan biaya pengumpulan pos
+collections_12_mths_ex_med,Jumlah koleksi dalam 12 bulan tidak termasuk koleksi medis
+delinq_2yrs,Jumlah 30+ hari insiden kenakalan yang lewat dalam file kredit peminjam selama 2 tahun terakhir
+desc,Deskripsi pinjaman yang disediakan oleh peminjam
+dti_joint,"Rasio yang dihitung menggunakan total pembayaran bulanan peminjam bersama atas total kewajiban utang, tidak termasuk hipotek dan pinjaman LC yang diminta, dibagi oleh pendapatan bulanan yang dilaporkan sendiri oleh co-peminjam yang dilaporkan sendiri"
+earliest_cr_line,Bulan jalur kredit yang paling awal yang dilaporkan peminjam dibuka
+emp_length,Panjang pekerjaan dalam beberapa tahun. Nilai yang mungkin adalah antara 0 dan 10 di mana 0 berarti kurang dari satu tahun dan 10 berarti sepuluh tahun atau lebih.
+emp_title,Judul pekerjaan yang disediakan oleh peminjam saat mengajukan pinjaman.*
+Femp,"Rasio yang dihitung menggunakan total pembayaran utang bulanan peminjam atas total kewajiban utang, tidak termasuk hipotek dan pinjaman LC yang diminta, dibagi dengan pendapatan bulanan peminjam yang dilaporkan sendiri."
+fico_range_high,Kisaran batas atas fico peminjam dengan pinjaman originasi milik.
+fico_range_low,Rentang batas bawah fico peminjam dengan pinjaman originasi milik.
+funded_amnt,Jumlah total yang berkomitmen untuk pinjaman itu pada saat itu.
+grade,LC menugaskan nilai pinjaman
+home_ownership,"Status kepemilikan rumah yang disediakan oleh peminjam selama pendaftaran. Nilai -nilai kami adalah: sewa, sendiri, hipotek, lainnya."
+id,ID yang ditugaskan LC yang unik untuk daftar pinjaman.
+il_util,Rasio total saldo saat ini dengan batas kredit/kredit tinggi pada semua instal acct
+initial_list_status,"Status daftar awal pinjaman. Nilai yang mungkin adalah - utuh, fraksional"
+inq_fi,Jumlah pertanyaan keuangan pribadi
+inq_last_12m,Jumlah pertanyaan kredit dalam 12 bulan terakhir
+inq_last_6mths,Jumlah pertanyaan dalam 6 bulan terakhir (tidak termasuk penyelidikan mobil dan hipotek)
+installment,Pembayaran bulanan yang terutang oleh peminjam jika pinjaman berasal.
+int_rate,"Menunjukkan jika pendapatan diverifikasi oleh LC, tidak diverifikasi, atau jika sumber pendapatan diverifikasi"
+is_inc_v,"Menunjukkan jika pendapatan diverifikasi oleh LC, tidak diverifikasi, atau jika sumber pendapatan diverifikasi"
+issue_d,Bulan yang didanai pinjaman
+id,Bulan terbaru LC menarik kredit untuk pinjaman ini
+last_fico_range_high,Rentang batas atas yang ditarik oleh fico terakhir peminjam.
+last_fico_range_low,Rentang batas bawah yang dimiliki oleh fico terakhir peminjam.
+last_pymnt_amnt,Jumlah total pembayaran terakhir yang diterima
+last_pymnt_d,Bulan lalu pembayaran diterima
+loan_amnt,Bulan lalu pembayaran diterima
+loan_status,Status pinjaman saat ini
+max_bal_bc,Saldo arus maksimum terutang pada semua akun bergulir
+member_id,ID yang ditugaskan LC yang unik untuk anggota peminjam.
+mths_since_last_delinq,Jumlah bulan sejak kenakalan terakhir peminjam.
+mths_since_last_major_derog,Bulan sejak peringkat 90 hari atau lebih buruk terakhir
+mths_since_last_record,Jumlah bulan sejak catatan publik terakhir.
+mths_since_rcnt_il,Bulan sejak akun angsuran terbaru dibuka
+next_pymnt_d,Tanggal Pembayaran Terjadwal Berikutnya
+open_acc,Jumlah jalur kredit terbuka dalam file kredit peminjam.
+open_acc_6m,Jumlah perdagangan terbuka dalam 6 bulan terakhir
+open_il_12m,Jumlah perdagangan terbuka dalam 6 bulan terakhir
+open_il_24m,Jumlah akun angsuran yang dibuka dalam 24 bulan terakhir
+open_il_6m,Jumlah akun angsuran yang dibuka dalam 12 bulan terakhir
+open_rv_12m,Jumlah Perdagangan Revolving Dibuka dalam 12 Bulan Terakhir
+open_rv_24m,Jumlah perdagangan revolving dibuka dalam 24 bulan terakhir
+out_prncp,Kepala sekolah yang tersisa untuk jumlah total yang didanai
+out_prncp_inv,Kepala sekolah yang tersisa untuk sebagian dari jumlah total yang didanai oleh investor
+policy_code,"Policy_code yang tersedia untuk umum = 1
+Produk Baru Tidak Tersedia Umum Kebijakan_Code = 2"
+pub_rec,Jumlah catatan publik yang menghina
+purpose,Kategori yang disediakan oleh peminjam untuk permintaan pinjaman.
+,Menunjukkan jika rencana pembayaran telah diberlakukan untuk pinjaman
+recoveries,Menunjukkan jika rencana pembayaran telah diberlakukan untuk pinjaman
+revol_bal,Total Saldo Revolving Credit
+revol_util,"Tingkat pemanfaatan jalur bergulir, atau jumlah kredit yang digunakan peminjam relatif terhadap semua kredit revolving yang tersedia."
+sub_grade,LC Ditugaskan Subgrade Pinjaman
+term,Jumlah pembayaran atas pinjaman. Nilai dalam beberapa bulan dan dapat berupa 36 atau 60.
+title,Judul pinjaman yang disediakan oleh peminjam
+tot_coll_amt,Total jumlah pengumpulan yang pernah ada
+tot_cur_bal,Total Saldo Saat Ini dari Semua Akun
+total_acc,Jumlah total jalur kredit saat ini dalam file kredit peminjam
+total_bal_il,Total saldo saat ini dari semua akun angsuran
+total_cu_tl,Jumlah Perdagangan Keuangan
+total_pymnt,Pembayaran diterima hingga saat ini untuk jumlah total yang didanai
+total_pymnt_inv,Pembayaran diterima hingga saat ini untuk sebagian dari jumlah total yang didanai oleh investor
+total_rec_int,Bunga diterima hingga saat ini
+total_rec_late_fee,Biaya keterlambatan yang diterima hingga saat ini
+total_rec_prncp,Kepala sekolah diterima hingga saat ini
+total_rev_hi_lim  ,Total Batas Kredit/Kredit Tinggi Revolving
+url,URL untuk halaman LC dengan data daftar.
+verified_status_joint,"Menunjukkan jika pendapatan bersama co-peminjam diverifikasi oleh LC, tidak diverifikasi, atau jika sumber pendapatan diverifikasi"
+zip_code,3 nomor pertama dari kode pos yang disediakan oleh peminjam dalam aplikasi pinjaman.
